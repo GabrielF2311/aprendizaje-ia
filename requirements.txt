@@ -1,0 +1,56 @@
+# ===================================
+# Requisitos Python para IA
+# ===================================
+
+# Computación científica y manipulación de datos
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+
+# Visualización
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Machine Learning tradicional
+scikit-learn>=1.3.0
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Procesamiento de Lenguaje Natural
+transformers>=4.30.0
+nltk>=3.8.0
+spacy>=3.6.0
+
+# Computer Vision adicional
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Notebooks y desarrollo
+jupyter>=1.0.0
+ipykernel>=6.25.0
+notebook>=7.0.0
+
+# Utilidades
+tqdm>=4.65.0
+requests>=2.31.0
+
+# Datasets y competencias
+kaggle>=1.5.0
+
+# Métricas y evaluación
+tensorboard>=2.13.0
+
+# Procesamiento de imágenes
+imageio>=2.31.0
+
+# Manejo de configuraciones
+pyyaml>=6.0.0
+
+# Testing
+pytest>=7.4.0

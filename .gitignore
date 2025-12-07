@@ -1,0 +1,104 @@
+# .gitignore para proyecto de IA
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Entorno virtual
+venv/
+ENV/
+env/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Datasets grandes (no subir a git)
+*.csv
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+07_Datasets/
+
+# Modelos entrenados
+*.pt
+*.pth
+*.ckpt
+*.pb
+*.h5
+*.keras
+models/
+checkpoints/
+saved_models/
+
+# Logs y outputs
+logs/
+*.log
+runs/
+wandb/
+mlruns/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Outputs de matplotlib
+*.png
+*.jpg
+*.jpeg
+*.pdf
+!docs/*.png
+!recursos/*.png
+
+# Cache de pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Secrets y configuraciones locales
+.env
+*.env
+secrets.yaml
+config_local.yaml
