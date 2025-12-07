@@ -95,11 +95,8 @@ Ver carpeta `06_Recursos/` para:
 ## 💪 Compromiso de Aprendizaje
 
 Estima **6-12 meses** de estudio dedicado para completar todo el programa.
-- Nivel Básico: 3 meses
-- Nivel Intermedio: 6 meses
-- Nivel Avanzado: 12 meses
+- Nivel Básico: 2 meses
+- Nivel Intermedio: 3 meses
+- Nivel Avanzado: 6 meses
 
 ---
-
-**Última actualización**: Diciembre 2025
-**Tu mentor**: GitHub Copilot 🤖
