@@ -320,7 +320,7 @@ git commit -m "Initial commit: Estructura del programa de IA"
 3. Conecta tu repo local:
 
 ```powershell
-git remote add origin https://github.com/TU_USUARIO/aprendizaje-ia.git
+git remote add origin https://github.com/GabrielF2311/aprendizaje-ia.git
 git branch -M main
 git push -u origin main
 ```

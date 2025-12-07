@@ -1,14 +1,5 @@
 # 📊 Seguimiento de Progreso Personal
 
-## 👤 Información del Estudiante
-
-**Nombre**: _______________________
-**Fecha de inicio**: _______________
-**Objetivo**: Especializarme en IA
-**Tiempo disponible semanal**: _____ horas
-
----
-
 ## 📈 Progreso General
 
 ### Resumen por Fase
